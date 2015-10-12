@@ -12,3 +12,5 @@
 10. http://www.hivemq.com/blog/feed/
 11. https://allseenalliance.org/news-and-events/newsroom/in-the-news
 12. http://www.sensorsmag.com/rss.xml/category/94, http://www.sensorsmag.com/rss.xml/category/5
+13. http://www.instructables.com/tag/type-id/featured-true/rss.xml
+14. https://www.reddit.com/r/internetofthings/.rss
