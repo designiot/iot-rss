@@ -8,7 +8,6 @@
 - http://appsforarduino.com/blog/feed/
 - http://hackaday.com/feed/
 - http://hackaweek.com/hacks/?feed=rss2
-- http://www.iot.io/blog/feed/atom/
 - http://www.hivemq.com/blog/feed/
 - https://allseenalliance.org/news-and-events/newsroom/in-the-news
 - http://www.sensorsmag.com/rss.xml/category/94
